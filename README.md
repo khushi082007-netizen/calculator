@@ -19,3 +19,5 @@ Usage
 -----
 
 Open the app in your browser by double-clicking `index.html`
+
+Deployed link: https://khushi082007-netizen.github.io/calculator/
